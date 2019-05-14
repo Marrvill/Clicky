@@ -1,0 +1,25 @@
+{
+  "name": "gameofclick",
+  "version": "1.0.0",
+  "description": "click game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marrvill/Clicky.git"
+  },
+  "keywords": [
+    "click"
+  ],
+  "author": "Marlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marrvill/Clicky/issues"
+  },
+  "homepage": "https://github.com/Marrvill/Clicky#readme",
+  "dependencies": {
+    "node": "^12.2.0"
+  }
+}
